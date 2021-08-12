@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LapsRemote", "LapsRemote\LapsRemote.csproj", "{32250AC2-E333-44EC-9F5D-49D55918261C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32250AC2-E333-44EC-9F5D-49D55918261C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32250AC2-E333-44EC-9F5D-49D55918261C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32250AC2-E333-44EC-9F5D-49D55918261C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32250AC2-E333-44EC-9F5D-49D55918261C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A866AF-A9B2-44BB-99BB-5543D2560C8F}
+	EndGlobalSection
+	GlobalSection(AvalonStudioProperties) = preSolution
+		StartupItem = {32250AC2-E333-44EC-9F5D-49D55918261C}
+	EndGlobalSection
+EndGlobal
